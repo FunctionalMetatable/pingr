@@ -18,7 +18,7 @@ status-website:
   navbar:
     - title: pingr websites
       href: /
-    - title: pingerHub
+    - title: GIT pingr
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
