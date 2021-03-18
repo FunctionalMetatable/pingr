@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: functionalmetatable # Your GitHub username
+repo: pingr # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: flagclicked
+    url: https://flagclicked.colabersecret.repl.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -14,11 +14,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "pingr"
-  introMessage: pingr
+  introMessage: uhhh why did i make this
   navbar:
-    - title: pingr websites
+    - title: pingr
       href: /
-    - title: GIT pingr
+    - title: github
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
