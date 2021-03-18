@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "flagclicked",
+    "url": "https://flagclicked.colabersecret.repl.co",
+    "icon": "https://favicons.githubusercontent.com/flagclicked.colabersecret.repl.co",
+    "slug": "flagclicked",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 58,
-    "timeDay": 61,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   }
 ]
