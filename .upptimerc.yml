@@ -6,6 +6,8 @@ repo: pingr # Your GitHub repository name
 sites:
   - name: flagclicked
     url: https://flagclicked.colabersecret.repl.co
+  - name: cors
+    url: https://cors.9gr.repl.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
