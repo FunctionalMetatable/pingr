@@ -8,6 +8,8 @@ sites:
     url: https://flagclicked.colabersecret.repl.co
   - name: cors
     url: https://cors.9gr.repl.co
+  - name: username finder
+    url: https://e-1.9gr.repl.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
