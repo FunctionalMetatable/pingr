@@ -4,17 +4,17 @@
     "url": "https://pinger.9gr.repl.co",
     "icon": "https://favicons.githubusercontent.com/pinger.9gr.repl.co",
     "slug": "replit-pinger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 252,
-    "timeWeek": 228,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 342,
+    "timeDay": 655,
+    "timeWeek": 332,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
