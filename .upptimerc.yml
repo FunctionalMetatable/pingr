@@ -5,7 +5,7 @@ repo: pingr # Your GitHub repository name
 # Add your sites here
 sites:
   - name: replit pinger
-    url: https://pinger.9gr.repl.co
+    url: https://pico.9gr.repl.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
