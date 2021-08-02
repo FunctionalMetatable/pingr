@@ -1,7 +1,7 @@
 url: https://pico.9gr.repl.co
-status: up
-code: 200
-responseTime: 1032
-lastUpdated: 2021-08-02T08:24:59.416Z
+status: down
+code: 502
+responseTime: 373
+lastUpdated: 2021-08-02T09:23:26.863Z
 startTime: Fri Apr 02 2021 09:54:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
