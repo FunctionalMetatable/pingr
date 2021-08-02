@@ -1,20 +1,20 @@
 [
   {
     "name": "replit pinger",
-    "url": "https://pinger.9gr.repl.co",
-    "icon": "https://favicons.githubusercontent.com/pinger.9gr.repl.co",
+    "url": "https://pico.9gr.repl.co",
+    "icon": "https://favicons.githubusercontent.com/pico.9gr.repl.co",
     "slug": "replit-pinger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 382,
-    "timeYear": 403,
+    "time": 408,
+    "timeDay": 1032,
+    "timeWeek": 1032,
+    "timeMonth": 406,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   }
 ]
