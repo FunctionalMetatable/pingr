@@ -4,17 +4,17 @@
     "url": "https://pico.9gr.repl.co",
     "icon": "https://favicons.githubusercontent.com/pico.9gr.repl.co",
     "slug": "replit-pinger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2851,
-    "timeDay": 1157,
-    "timeWeek": 2673,
-    "timeMonth": 2944,
-    "timeYear": 3084,
+    "time": 2849,
+    "timeDay": 1239,
+    "timeWeek": 2606,
+    "timeMonth": 2915,
+    "timeYear": 3082,
     "dailyMinutesDown": {}
   }
 ]
